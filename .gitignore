@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignora a pasta node_modules na raiz do projeto (boa prática padrão)
 /node_modules
 
@@ -6,3 +7,7 @@
 
 # OPÇÃO AVANÇADA: Ignorar qualquer pasta node_modules, em qualquer lugar do projeto (mais seguro para este caso)
  node_modules
+=======
+# Ignora QUALQUER pasta node_modules em qualquer lugar do projeto
+**/node_modules
+>>>>>>> 6db7233235da3e6ef435e7acf51f2e8903ce372f
